@@ -1,4 +1,4 @@
-![Banner perfil](imagenes/imae.jpg)
+![Banner perfil](imae.jpg)
 ## Hi there 👋
 
 <!--
