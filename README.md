@@ -1,17 +1,18 @@
 ![Banner perfil](imae.jpg)
-## Hi there 👋
 
-<!--
-**ismaelgakill/ismaelgakill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy Ismael Hernández Rocamora 👋
 
-Here are some ideas to get you started:
+Desarrollo software de gestión para empresas: backend, frontend, aplicaciones de escritorio e infraestructura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Atlas
+
+Mi proyecto principal: **una aplicación que lleva una empresa de almacén y distribución de principio a fin**: almacén,
+pedidos, logística, facturación, economía y personal, en un solo sitio y en producción.
+
+- 📖 **Qué es y cómo está hecho:** [github.com/ismaelgakill/atlas](https://github.com/ismaelgakill/atlas)
+- 🌐 **Guía con capturas:** [atlasdb.es/sobrenosotros](https://atlasdb.es/sobrenosotros)
+
+### 🧰 Con qué trabajo
+
+**Python** (FastAPI, SQLAlchemy) · **TypeScript** (React, Vite) · **Rust** (Tauri) · **PostgreSQL** · **Docker** ·
+**GitHub Actions** · **nginx** · **Cloudflare**
