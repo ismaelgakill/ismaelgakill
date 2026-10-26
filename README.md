@@ -1,8 +1,8 @@
-![Ismael Hernández — Desarrollador de software de gestión](banner.png)
+![Ismael Hernández — Técnico de soporte · Desarrollo con IA](banner.png)
 
 ## Hola, soy Ismael Hernández Rocamora 👋
 
-Desarrollo software de gestión para empresas: backend, frontend, aplicaciones de escritorio e infraestructura.
+Soy técnico de soporte. Desarrollo software apoyándome en IA mientras sigo aprendiendo a programar por mi cuenta.
 
 ### 🏗️ Atlas
 
@@ -12,7 +12,7 @@ pedidos, logística, facturación, economía y personal, en un solo sitio y en p
 - 📖 **Qué es y cómo está hecho:** [github.com/ismaelgakill/atlas](https://github.com/ismaelgakill/atlas)
 - 🌐 **Guía con capturas:** [atlasdb.es/sobrenosotros](https://atlasdb.es/sobrenosotros)
 
-### 🧰 Con qué trabajo
+### 🧰 Con qué está hecho Atlas
 
 **Python** (FastAPI, SQLAlchemy) · **TypeScript** (React, Vite) · **Rust** (Tauri) · **PostgreSQL** · **Docker** ·
 **GitHub Actions** · **nginx** · **Cloudflare**
