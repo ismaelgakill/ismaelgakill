@@ -1,4 +1,4 @@
-![Banner perfil](imae.jpg)
+![Ismael Hernández — Desarrollador de software de gestión](banner.png)
 
 ## Hola, soy Ismael Hernández Rocamora 👋
 
